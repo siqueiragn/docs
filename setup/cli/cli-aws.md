@@ -1,4 +1,4 @@
-# Setup AWS Account 
+## Setup AWS Account 
 ##### Author: [Gabriel Siqueira](https://github.com/siqueiragn)
 ---
 
