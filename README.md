@@ -13,4 +13,10 @@ This repository stores a lot of scripts and documents about my studies on shell 
 * [AWS](setup/cli/cli-aws.md)
 * [Oracle](setup/cli/cli-oracle.md)
 
-
+### Terraform
+* [Introduction](terraform/introduction.md)
+* [1.0 - Provisioning a Docker Container With SuperMario Image
+](terraform/1.0.md)
+* [2.0 - Creating an AWS VPC](terraform/2.0.md)
+* [3.0 - Provisioning an EC2 Instance + VPC](terraform/3.0.md)
+* [4.0 - Provisioning an S3 Bucket](terraform/4.0.md)
